@@ -7,6 +7,6 @@ myboot:
     url: http://testoption.com/
     secure: true
   country:
-    "country[0]": India
-    "country[1]": US
-    "country[2]": UK
+    country[0]: India
+    country[1]: US
+    country[2]: UK
