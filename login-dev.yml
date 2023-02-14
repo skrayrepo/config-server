@@ -1,0 +1,14 @@
+---
+myboot:
+  namw: Santosh
+  age: 43
+  address: Presige Lake Ridge
+info:
+  url: http://testoption.com/
+  secure: true
+country:
+  "country[0]": India
+  "country[1]": US
+  "country[2]": UK
+
+   
